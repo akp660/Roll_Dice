@@ -1,3 +1,3 @@
-# Roll_Dice Android Application using XMML & JAVA 
+# Roll_Dice Android Application using XML & JAVA 
 Smartintern Project- Assignment
 
